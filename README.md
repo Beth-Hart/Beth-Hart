@@ -1,11 +1,12 @@
-### Hi there, my name is Beth and I'm a full-stack web developer in the .NET framework.
+### Hi there, 
+My name is Beth and I'm a full-stack web developer in the .NET framework.
 
 ### I'm currently learning:
 - JavaScript
 - Vue
 - Python
 
-### Feel free to reach out to me via my <a href = "https://www.linkedin.com/in/beth-a-hart/">LinkedIn</a>.
+Feel free to reach out to me via my <a href = "https://www.linkedin.com/in/beth-a-hart/">LinkedIn</a>.
 
 <!--
 **Beth-Hart/Beth-Hart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
